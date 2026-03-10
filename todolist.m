@@ -1,11 +1,11 @@
-# To-Do List for Plan�te d�cor ci d�corateur en b�timent Website
+# To-Do List for Planéte décor ci décorateur en bétiment Website
 
 ## Project Overview
-- **Company Name:** Plan�te d�cor ci d�corateur en b�timent
+- **Company Name:** Planéte décor ci décorateur en bétiment
 - **Directory:** plan_te_d_cor_ci_d_corateur_en_b_timent
 - **Address/Contact:** 
-  - 66 K followers � 10 suivi(e)s
-  - Nos service =>plafond meuble t�l� �tag�re peinture staff peinte-gris �tanch�it�, cr�pissage, b�ton ) on rigole ici quand cest la pauses
+  - 66 K followers é 10 suivi(e)s
+  - Nos service =>plafond meuble télé étagére peinture staff peinte-gris étanchéité, crépissage, béton ) on rigole ici quand cest la pauses
   - 
   - 
   - +225 0748209915
@@ -25,7 +25,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: plan-te-d-cor-ci-d-corateur-en-b-timent  - Version: 0.1.0- [ ] Update index.html:
-  - Title: Plan�te d�cor ci d�corateur en b�timent  - Meta description: https://www.facebook.com/profile.php?id=100068007281218...
+  - Title: Planéte décor ci décorateur en bétiment  - Meta description: https://www.facebook.com/profile.php?id=100068007281218...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -41,7 +41,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "Plan�te d�cor ci d�corateur en b�timent".
+  - Replace the hero title with "Planéte décor ci décorateur en bétiment".
   - Update the subtitle with: "https://www.facebook.com/profile.php?id=100068007281218".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):

@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "plan-te-d-cor-ci-d-corateur-en",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
